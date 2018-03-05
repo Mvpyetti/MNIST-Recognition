@@ -1,0 +1,3 @@
+﻿  NeuralNetwork.cpp
+c:\users\tommy\dropbox\mnist recognition\mnist recognition\neuralnetwork.cpp(257): warning C4715: 'NeuralNetwork::ActivationFunction': not all control paths return a value
+  MNIST Recognition.vcxproj -> C:\Users\Tommy\Dropbox\MNIST Recognition\Debug\MNIST Recognition.exe
